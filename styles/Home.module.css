@@ -1,5 +1,5 @@
 .container {
-  padding: 0 2rem;
+  padding: 0 0rem;
 }
 
 .main {
@@ -9,11 +9,18 @@
   flex-direction: column;
   /* justify-content: center; */
   align-items: center;
+  padding: 0 2rem;
+  margin-bottom: 4rem;
 }
 
 .logo_container {
   padding-left: 100px;
   padding-right: 100px;
+}
+
+.footer {
+  background-color: var(--color-primary);
+  color: white;
 }
 
 .main_img {
