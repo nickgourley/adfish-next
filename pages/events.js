@@ -6,22 +6,12 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>The AdFish Group</title>
+        <title>Events - The AdFish Group</title>
         <meta name="description" content="Ahead of the Current" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
         <Layout>
-        <div className={styles.logo_container}>
-        <Image
-          layout="intrinsic"
-          width={275}
-          height={160}
-          objectFit="contain"
-          src="/adfishgroup-logo.png"
-          alt="The Adfish Group Logo"
-        />
-        </div>
         <div 
         className={styles.main_img}
 >     
