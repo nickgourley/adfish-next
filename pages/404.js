@@ -12,22 +12,10 @@ export default function Home() {
       </Head>
 
         <Layout>
-        <div 
-        className={styles.main_img}
->     
-    <Image
-      layout={'intrinsic'}
-      width={800}
-      height={1400}
-      objectFit="contain"
-      // alt={`Cover Image for ${title}`}
-      src="/AdFish_AD_5x8.png"
-      // className={cn('shadow-small', {
-      //   'hover:shadow-medium transition-shadow duration-200': slug,
-
-      // })}
-    />
-    </div>
+            <div className="text-center mt-5">
+                <h1>404: Page Not Found!</h1>
+                <p>A page was not found at this route.</p>
+            </div>
       </Layout>
     </div>
   )

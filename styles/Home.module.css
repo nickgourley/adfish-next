@@ -14,8 +14,8 @@
 }
 
 .logo_container {
-  padding-left: 100px;
-  padding-right: 100px;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 
 .footer {
@@ -34,18 +34,18 @@
     padding: 0 1rem;
   }
   .logo_container {
-    padding-left: 60px;
-    padding-right: 60px;
+    margin-left: 60px;
+    margin-right: 60px;
   }
 }
 
 .footer {
   display: flex;
   flex: 1;
-  padding: 2rem 0;
+  padding: 1rem 1rem;
   border-top: 1px solid #eaeaea;
-  justify-content: center;
   align-items: center;
+  justify-content: center;
 }
 
 .footer a {
