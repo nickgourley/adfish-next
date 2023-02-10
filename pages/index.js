@@ -21,7 +21,7 @@ export default function Home() {
       height={1400}
       objectFit="contain"
       // alt={`Cover Image for ${title}`}
-      src="/AdFish_AD_5x8.png"
+      src="/adfish-ad-2023.jpg"
       // className={cn('shadow-small', {
       //   'hover:shadow-medium transition-shadow duration-200': slug,
 
