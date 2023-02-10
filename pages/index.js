@@ -24,7 +24,6 @@ export default function Home() {
       src="/adfish-ad-2023.jpg"
       // className={cn('shadow-small', {
       //   'hover:shadow-medium transition-shadow duration-200': slug,
-
       // })}
     />
     </div>
